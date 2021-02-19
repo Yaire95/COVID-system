@@ -1,5 +1,6 @@
 # COVID-system
-COVID-19 system, description in REDME
+COVID-19 system
+
 SpreaderDetectorBackend
 -----------------------------
 Please explain how you dealt with the following parts of the exam.
