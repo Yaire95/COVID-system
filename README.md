@@ -1,6 +1,8 @@
 # COVID-system
 COVID-19 system
 
+A system that detects a chain of COVID-19 spreaders and alerts paople that they may be diseased based on the probability.
+
 SpreaderDetectorBackend
 -----------------------------
 Please explain how you dealt with the following parts of the exam.
